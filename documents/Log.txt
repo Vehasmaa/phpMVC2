@@ -1,0 +1,5 @@
+29.3.2024
+Started building next version of my MVC implementation.
+Previous one works, but it lacks some nice to have abilities
+
+Setting up basic files, etc for now.
