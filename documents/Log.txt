@@ -3,3 +3,15 @@ Started building next version of my MVC implementation.
 Previous one works, but it lacks some nice to have abilities
 
 Setting up basic files, etc for now.
+
+
+30.3.2024
+
+Continue working basic structure of system
+
+The Engine
+
+This is glass MVC-actually run and i need to inject dependencies to it upon creation. Database, filters,
+template system basicly index.php calls this after bootstrap. Engine.Run() style.
+
+

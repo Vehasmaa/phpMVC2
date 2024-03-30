@@ -6,7 +6,6 @@ $DbServer = "";
 $DbUser = "";
 $DbPasswd ="";
 
-
 // Default paths for things
 $PathControllers = "./application/controllers/";
 $PathViews ="./application/views/";
